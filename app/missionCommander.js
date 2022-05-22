@@ -1,12 +1,11 @@
 class MissionCommander{
-    constructor(name){
-
-        this.name=name
+    constructor (name) {
+      this.name=name
     }
-}
-//Exportando la clase 
-module.exports = MissionCommander
-
+  }
+  
+  // Esta línea nos permite exportar nuestra clase
+  module.exports = MissionCommander
 
 
 
